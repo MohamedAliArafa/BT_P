@@ -1,0 +1,76 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /media/fantom/Локальный диск/Study/SDG/BT Printer Ajman DED/app/src/main/AndroidManifest.xml:2:1-35:12
+	package
+		ADDED from /media/fantom/Локальный диск/Study/SDG/BT Printer Ajman DED/app/src/main/AndroidManifest.xml:3:5-34
+		INJECTED from /media/fantom/Локальный диск/Study/SDG/BT Printer Ajman DED/app/src/main/AndroidManifest.xml
+		INJECTED from /media/fantom/Локальный диск/Study/SDG/BT Printer Ajman DED/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /media/fantom/Локальный диск/Study/SDG/BT Printer Ajman DED/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /media/fantom/Локальный диск/Study/SDG/BT Printer Ajman DED/app/src/main/AndroidManifest.xml
+		INJECTED from /media/fantom/Локальный диск/Study/SDG/BT Printer Ajman DED/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /media/fantom/Локальный диск/Study/SDG/BT Printer Ajman DED/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /media/fantom/Локальный диск/Study/SDG/BT Printer Ajman DED/app/src/main/AndroidManifest.xml
+		INJECTED from /media/fantom/Локальный диск/Study/SDG/BT Printer Ajman DED/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /media/fantom/Локальный диск/Study/SDG/BT Printer Ajman DED/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /media/fantom/Локальный диск/Study/SDG/BT Printer Ajman DED/app/src/main/AndroidManifest.xml:7:5-29:19
+	android:label
+		ADDED from /media/fantom/Локальный диск/Study/SDG/BT Printer Ajman DED/app/src/main/AndroidManifest.xml:10:9-41
+	android:debuggable
+		ADDED from /media/fantom/Локальный диск/Study/SDG/BT Printer Ajman DED/app/src/main/AndroidManifest.xml:8:9-35
+	android:icon
+		ADDED from /media/fantom/Локальный диск/Study/SDG/BT Printer Ajman DED/app/src/main/AndroidManifest.xml:9:9-38
+	android:theme
+		ADDED from /media/fantom/Локальный диск/Study/SDG/BT Printer Ajman DED/app/src/main/AndroidManifest.xml:11:9-70
+activity#es.pymasde.blueterm.BlueTerm
+ADDED from /media/fantom/Локальный диск/Study/SDG/BT Printer Ajman DED/app/src/main/AndroidManifest.xml:12:9-22:20
+	android:label
+		ADDED from /media/fantom/Локальный диск/Study/SDG/BT Printer Ajman DED/app/src/main/AndroidManifest.xml:15:13-45
+	android:configChanges
+		ADDED from /media/fantom/Локальный диск/Study/SDG/BT Printer Ajman DED/app/src/main/AndroidManifest.xml:14:13-63
+	android:name
+		ADDED from /media/fantom/Локальный диск/Study/SDG/BT Printer Ajman DED/app/src/main/AndroidManifest.xml:13:13-37
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /media/fantom/Локальный диск/Study/SDG/BT Printer Ajman DED/app/src/main/AndroidManifest.xml:18:13-21:29
+action#android.intent.action.MAIN
+ADDED from /media/fantom/Локальный диск/Study/SDG/BT Printer Ajman DED/app/src/main/AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from /media/fantom/Локальный диск/Study/SDG/BT Printer Ajman DED/app/src/main/AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /media/fantom/Локальный диск/Study/SDG/BT Printer Ajman DED/app/src/main/AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from /media/fantom/Локальный диск/Study/SDG/BT Printer Ajman DED/app/src/main/AndroidManifest.xml:20:27-74
+activity#es.pymasde.blueterm.DeviceListActivity
+ADDED from /media/fantom/Локальный диск/Study/SDG/BT Printer Ajman DED/app/src/main/AndroidManifest.xml:23:9-27:59
+	android:label
+		ADDED from /media/fantom/Локальный диск/Study/SDG/BT Printer Ajman DED/app/src/main/AndroidManifest.xml:26:13-50
+	android:configChanges
+		ADDED from /media/fantom/Локальный диск/Study/SDG/BT Printer Ajman DED/app/src/main/AndroidManifest.xml:25:13-63
+	android:theme
+		ADDED from /media/fantom/Локальный диск/Study/SDG/BT Printer Ajman DED/app/src/main/AndroidManifest.xml:27:13-56
+	android:name
+		ADDED from /media/fantom/Локальный диск/Study/SDG/BT Printer Ajman DED/app/src/main/AndroidManifest.xml:24:13-47
+activity#es.pymasde.blueterm.TermPreferences
+ADDED from /media/fantom/Локальный диск/Study/SDG/BT Printer Ajman DED/app/src/main/AndroidManifest.xml:28:9-52
+	android:name
+		ADDED from /media/fantom/Локальный диск/Study/SDG/BT Printer Ajman DED/app/src/main/AndroidManifest.xml:28:19-49
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /media/fantom/Локальный диск/Study/SDG/BT Printer Ajman DED/app/src/main/AndroidManifest.xml:31:5-74
+	android:name
+		ADDED from /media/fantom/Локальный диск/Study/SDG/BT Printer Ajman DED/app/src/main/AndroidManifest.xml:31:22-71
+uses-permission#android.permission.BLUETOOTH
+ADDED from /media/fantom/Локальный диск/Study/SDG/BT Printer Ajman DED/app/src/main/AndroidManifest.xml:32:5-68
+	android:name
+		ADDED from /media/fantom/Локальный диск/Study/SDG/BT Printer Ajman DED/app/src/main/AndroidManifest.xml:32:22-65
+uses-sdk
+ADDED from /media/fantom/Локальный диск/Study/SDG/BT Printer Ajman DED/app/src/main/AndroidManifest.xml:34:5-43
+	android:targetSdkVersion
+		INJECTED from /media/fantom/Локальный диск/Study/SDG/BT Printer Ajman DED/app/src/main/AndroidManifest.xml
+		INJECTED from /media/fantom/Локальный диск/Study/SDG/BT Printer Ajman DED/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /media/fantom/Локальный диск/Study/SDG/BT Printer Ajman DED/app/src/main/AndroidManifest.xml:34:15-40
+		INJECTED from /media/fantom/Локальный диск/Study/SDG/BT Printer Ajman DED/app/src/main/AndroidManifest.xml
+		INJECTED from /media/fantom/Локальный диск/Study/SDG/BT Printer Ajman DED/app/src/main/AndroidManifest.xml

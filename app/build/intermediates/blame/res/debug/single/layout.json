@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/media/fantom/Локальный диск/Study/SDG/BT Printer Ajman DED/app/build/intermediates/res/merged/debug/layout/term_activity.xml",
+        "source": "/media/fantom/Локальный диск/Study/SDG/BT Printer Ajman DED/app/src/main/res/layout/term_activity.xml"
+    },
+    {
+        "merged": "/media/fantom/Локальный диск/Study/SDG/BT Printer Ajman DED/app/build/intermediates/res/merged/debug/layout/custom_title.xml",
+        "source": "/media/fantom/Локальный диск/Study/SDG/BT Printer Ajman DED/app/src/main/res/layout/custom_title.xml"
+    },
+    {
+        "merged": "/media/fantom/Локальный диск/Study/SDG/BT Printer Ajman DED/app/build/intermediates/res/merged/debug/layout/device_list.xml",
+        "source": "/media/fantom/Локальный диск/Study/SDG/BT Printer Ajman DED/app/src/main/res/layout/device_list.xml"
+    },
+    {
+        "merged": "/media/fantom/Локальный диск/Study/SDG/BT Printer Ajman DED/app/build/intermediates/res/merged/debug/layout/message.xml",
+        "source": "/media/fantom/Локальный диск/Study/SDG/BT Printer Ajman DED/app/src/main/res/layout/message.xml"
+    },
+    {
+        "merged": "/media/fantom/Локальный диск/Study/SDG/BT Printer Ajman DED/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/media/fantom/Локальный диск/Study/SDG/BT Printer Ajman DED/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/media/fantom/Локальный диск/Study/SDG/BT Printer Ajman DED/app/build/intermediates/res/merged/debug/layout/device_name.xml",
+        "source": "/media/fantom/Локальный диск/Study/SDG/BT Printer Ajman DED/app/src/main/res/layout/device_name.xml"
+    }
+]
